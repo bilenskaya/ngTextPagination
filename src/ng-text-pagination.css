@@ -1,0 +1,21 @@
+.page-container {
+
+    font-size: 24px;
+    overflow:hidden;
+    margin:0 auto;
+    position: relative;
+    width: 80%;
+}
+
+.text-container {
+    line-height:1.5;
+    margin: 0 auto;
+    padding : 0;
+    font-family: sans-serif;
+    color: #00212C;
+}
+
+.text-container p {
+    margin: 0;
+}
+

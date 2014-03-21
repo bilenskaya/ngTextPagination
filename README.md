@@ -38,8 +38,8 @@ Getting Started
 
           <div  class="container">
               <div class="text-container">
-                  <p class= "paragraph" ng-hide="1">ABC</p>
-                  <p class= "paragraph" ng-repeat="paragraph in paragraphs">{{paragraph}}</p>
+                  <p class="paragraph" ng-hide="1">ABC</p>
+                  <p class="paragraph" ng-repeat="paragraph in paragraphs">{{paragraph}}</p>
               </div>
           </div>
 

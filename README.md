@@ -17,7 +17,7 @@ Getting Started
         <script type='text/javascript' src='path/to/angular.min.js'></script>
         <script type='text/javascript' src='path/to/ng-text-pagination.js'></script>
 
-  * Include the stylesheet tag on your page
+ * Include the stylesheet tag on your page
 
         <link rel="stylesheet" href="path/to/ng-text-pagination.css">
 
